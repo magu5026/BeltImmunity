@@ -1,0 +1,9 @@
+{
+	"name":"BeltImmunity",
+	"author":"magu5026",
+	"version":"0.15.0",
+	"title":"Belt Immunity",
+	"description":"Add Belt Immunity Equipment.",
+	"factorio_version":"0.15",
+	"dependencies": ["base >= 0.15.9"]
+}
